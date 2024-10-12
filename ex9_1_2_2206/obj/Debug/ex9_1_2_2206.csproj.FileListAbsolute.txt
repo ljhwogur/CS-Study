@@ -1,0 +1,11 @@
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\bin\Debug\ex9_1_2_2206.exe.config
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\bin\Debug\ex9_1_2_2206.exe
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\bin\Debug\ex9_1_2_2206.pdb
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.csproj.AssemblyReference.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.Form1.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.Form2.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.Properties.Resources.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.csproj.GenerateResource.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.csproj.CoreCompileInputs.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.exe
+C:\Users\vmfhd\OneDrive\바탕 화면\개발환경설정\ex9_1_2_2206\obj\Debug\ex9_1_2_2206.pdb
